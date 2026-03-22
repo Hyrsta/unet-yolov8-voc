@@ -1,0 +1,48 @@
+95.27% = aeroplane AP 
+94.61% = bicycle AP 
+93.84% = bird AP 
+88.20% = boat AP 
+77.39% = bottle AP 
+93.21% = bus AP 
+93.21% = car AP 
+91.61% = cat AP 
+77.74% = chair AP 
+93.31% = cow AP 
+82.60% = diningtable AP 
+91.34% = dog AP 
+95.39% = horse AP 
+92.95% = motorbike AP 
+94.14% = person AP 
+71.34% = pottedplant AP 
+90.47% = sheep AP 
+86.18% = sofa AP 
+94.93% = train AP 
+92.22% = tvmonitor AP 
+
+mAP = 89.50%
+# Number of ground-truth objects per class
+aeroplane: 120
+bicycle: 142
+bird: 164
+boat: 109
+bottle: 220
+bus: 124
+car: 443
+cat: 183
+chair: 411
+cow: 79
+diningtable: 108
+dog: 292
+horse: 133
+motorbike: 129
+person: 1733
+pottedplant: 183
+sheep: 183
+sofa: 102
+train: 121
+tvmonitor: 133
+
+# Number of detected objects per class
+aeroplane: 847 (tp:116, fp:731)
+bicycle: 740 (tp:139, fp:601)
+bird: 1395 (tp:162, fp:1233)
